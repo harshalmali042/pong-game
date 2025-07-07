@@ -103,6 +103,19 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## 👨‍💻 Author
+
+**Atul Kamble**
+
+- 🌐 [Website](https://www.atulkamble.in)
+- 🐙 [GitHub](https://github.com/atulkamble)
+- 🐦 [X](https://x.com/Atul_Kamble)
+- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
+- 📷 [Instagram](https://www.instagram.com/atuljkamble)
+
+---
+
+
 ## 🙌 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
