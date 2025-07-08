@@ -136,11 +136,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Atul Kamble**
 
-- 🌐 [Website](https://www.atulkamble.in)
+- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
 - 🐙 [GitHub](https://github.com/atulkamble)
 - 🐦 [X](https://x.com/Atul_Kamble)
-- 💼 [LinkedIn](https://www.linkedin.com/in/atuljkamble)
 - 📷 [Instagram](https://www.instagram.com/atuljkamble)
+- 🌐 [Website](https://www.atulkamble.in)
 
 ---
 
