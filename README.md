@@ -2,7 +2,9 @@
 
 A **Simple Pong Game** built using **HTML, CSS, and JavaScript**, containerized with **Docker**.
 
-![Pong Game Screenshot](https://github.com/atulkamble/pong-game/blob/main/pong-game.png)
+## 📸 Screenshot
+
+![Pong Game](https://github.com/atulkamble/pong-game/blob/main/pong-game.png)
 
 ---
 
@@ -117,14 +119,8 @@ docker-compose stop
 # Stop and remove containers, networks, and volumes
 docker-compose down
 ```
-
 ---
 
-## 📸 Screenshot
-
-![Pong Game](https://github.com/atulkamble/pong-game/blob/main/pong-game.png)
-
----
 
 ## 📜 License
 
