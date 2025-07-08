@@ -80,7 +80,7 @@ start http://localhost/
 docker-compose up --build
 
 # Build and start in detached mode
-docker-compose up --build -d
+sudo docker-compose up --build -d
 
 # Stop the containers
 docker-compose stop
