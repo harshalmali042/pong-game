@@ -1,25 +1,25 @@
-name: pong-game
+name: CI/CD Pipeline
 
 on:
   push:
-    branches:
-      - main  # Trigger when code is pushed to main branch
+    branches: [ main ]
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout code
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # Step 2: Set up Node.js
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
-      # Step 3: Install dependencies (to verify build)
       - name: Install dependencies
+        working-directory: pong-game
         run: npm install
+
+      - name: Build Docker image
+        run: docker build -t pong-game:latest .
